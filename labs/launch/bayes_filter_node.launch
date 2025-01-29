@@ -1,0 +1,4 @@
+<launch>
+  <!-- Launch the bayes_filter_node -->
+  <node pkg="prob_rob_labs" type="bayes_filter_node" name="bayes_filter" output="screen" />
+</launch>

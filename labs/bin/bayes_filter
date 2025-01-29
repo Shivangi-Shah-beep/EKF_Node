@@ -1,0 +1,5 @@
+#!/usr/bin/env python
+from bayes_filter import bayes_filter
+
+if __name__ == '__main__':
+    bayes_filter.main()
